@@ -1,0 +1,212 @@
+[
+  {
+    "userPrincipalName": "Vickie",
+    "id": "bb9ae853-1e3a-4fb5-a607-819b7adb44c2",
+    "displayName": "White",
+    "isActive": false,
+    "roleId": "9c833510-b78f-48cf-bf81-8400231c35b3"
+  },
+  {
+    "userPrincipalName": "Kristian",
+    "id": "6d04de5e-493e-4ac6-be02-8dc84c8ba7cc",
+    "displayName": "Ward",
+    "isActive": true,
+    "roleId": "b17f92f2-1e20-4ff7-a79f-7d2817b69202"
+  },
+  {
+    "userPrincipalName": "Lelia",
+    "id": "8bc3bf5b-5748-41ae-9e7c-c22d58d98bc1",
+    "displayName": "Considine",
+    "isActive": true,
+    "roleId": "117fac98-cc69-427e-9b0a-5a37e45e5f1b"
+  },
+  {
+    "userPrincipalName": "Julianne",
+    "id": "f6aba287-d24b-4f70-b5ed-092c917d2715",
+    "displayName": "D'Amore",
+    "isActive": true,
+    "roleId": "39401370-c723-4ee8-aec3-cc74c96073af"
+  },
+  {
+    "userPrincipalName": "Alf",
+    "id": "1d23c6ea-0fc0-45dc-b57e-181275d921f8",
+    "displayName": "Gislason",
+    "isActive": false,
+    "roleId": "9df1cf39-c721-4361-96d5-929bc1975c54"
+  },
+  {
+    "userPrincipalName": "Marguerite",
+    "id": "458ea37b-c6ce-4dce-b546-8568f27b2387",
+    "displayName": "Hartmann",
+    "isActive": false,
+    "roleId": "ca384cb3-fa58-4589-b964-a1c7d8b241b2"
+  },
+  {
+    "userPrincipalName": "Leonie",
+    "id": "eb270c97-74d5-4ad1-901f-82c8733aa2ec",
+    "displayName": "Lemke",
+    "isActive": false,
+    "roleId": "1ec33d53-5e16-4358-8f55-8e2d2c6a30b4"
+  },
+  {
+    "userPrincipalName": "Henderson",
+    "id": "5388bc3a-f78c-475c-9a82-afedc8c85a5d",
+    "displayName": "Crist",
+    "isActive": false,
+    "roleId": "92d133d6-2973-4583-99ee-7a9179fa99f5"
+  },
+  {
+    "userPrincipalName": "Kennedi",
+    "id": "db7fefe1-3882-4c3e-aab1-54661af7bd1e",
+    "displayName": "Nolan",
+    "isActive": false,
+    "roleId": "a92097e1-ba48-4ab9-acf1-1a16fd1615d4"
+  },
+  {
+    "userPrincipalName": "Zella",
+    "id": "ce531bbf-40e6-409f-93d0-bb88c0b2d4a2",
+    "displayName": "Crona",
+    "isActive": false,
+    "roleId": "83a98b58-41c1-413c-88e1-dc6b18ae3f84"
+  },
+  {
+    "userPrincipalName": "Laverne",
+    "id": "6faeb0c1-aeb0-48cf-92d4-8fbf40ce5b59",
+    "displayName": "Prosacco",
+    "isActive": false,
+    "roleId": "4d3b711d-b11f-4ee5-80c9-73727848b762"
+  },
+  {
+    "userPrincipalName": "Foster",
+    "id": "a4d9f5e9-4f28-43e7-ab6c-d42921c045a4",
+    "displayName": "Hane",
+    "isActive": true,
+    "roleId": "8ccdb5cd-ba48-4db4-b4e0-ab1c6cf35d0d"
+  },
+  {
+    "userPrincipalName": "Marty",
+    "id": "1edc4128-918a-40f6-a7f6-8a8710e98050",
+    "displayName": "Bednar",
+    "isActive": true,
+    "roleId": "4e95cbf0-63ac-4543-9461-79d42d1a8d19"
+  },
+  {
+    "userPrincipalName": "Jaylan",
+    "id": "b0830161-00b6-46a3-9958-6a4b9da4db35",
+    "displayName": "Hamill",
+    "isActive": false,
+    "roleId": "9e33c073-eafe-4dd6-b2e7-f0a1a475faf9"
+  },
+  {
+    "userPrincipalName": "Brian",
+    "id": "b7060f81-9feb-4b53-9b70-a51280301955",
+    "displayName": "Wiza",
+    "isActive": false,
+    "roleId": "fc4718f5-8341-4f22-ba86-378cb012e3b5"
+  },
+  {
+    "userPrincipalName": "Germaine",
+    "id": "0cf23339-5825-4036-9aec-45d2d2950349",
+    "displayName": "Armstrong",
+    "isActive": false,
+    "roleId": "0b3b4996-5e76-4bd0-8e54-4780764d5197"
+  },
+  {
+    "userPrincipalName": "Amir",
+    "id": "2bbe9f22-51c8-49ad-8652-05bd280817de",
+    "displayName": "Wiegand",
+    "isActive": true,
+    "roleId": "39d3fa0d-02dd-4690-bb08-86ccba8177a7"
+  },
+  {
+    "userPrincipalName": "Brianne",
+    "id": "ad309818-4e2d-494e-9fa8-b2d41fa87640",
+    "displayName": "Mertz",
+    "isActive": false,
+    "roleId": "81cbaa78-240b-4cab-8f0c-dc60b7554cf0"
+  },
+  {
+    "userPrincipalName": "Jamaal",
+    "id": "b8668e65-c206-426a-970d-0b238b511a79",
+    "displayName": "Lockman",
+    "isActive": false,
+    "roleId": "b4d2ee8e-f77c-4e2b-b4e5-e0008c12948b"
+  },
+  {
+    "userPrincipalName": "Jovany",
+    "id": "eb050f05-c74c-4ae3-8dee-cab6393440c2",
+    "displayName": "Bashirian",
+    "isActive": true,
+    "roleId": "64c71a40-519f-48a9-88af-17c4dce2a4fa"
+  },
+  {
+    "userPrincipalName": "Quincy",
+    "id": "df12e0c1-1f03-4920-9f78-47736f95a1da",
+    "displayName": "Leannon",
+    "isActive": true,
+    "roleId": "865d4fc7-9f91-4eec-8e50-f2980ead1563"
+  },
+  {
+    "userPrincipalName": "Noemy",
+    "id": "cf8ca07d-f692-4a4a-a459-159be0f36a35",
+    "displayName": "Beier",
+    "isActive": true,
+    "roleId": "04dedc88-a25b-44e3-a1c1-7ad7757b7604"
+  },
+  {
+    "userPrincipalName": "Sandrine",
+    "id": "e019d677-d11d-46d7-9b4b-90f7af0635e9",
+    "displayName": "Osinski",
+    "isActive": false,
+    "roleId": "ab172d2e-bf35-45a9-b472-2727a1194826"
+  },
+  {
+    "userPrincipalName": "Jeremie",
+    "id": "98a9ecb3-7203-4e97-a66e-c810e56f824f",
+    "displayName": "Friesen",
+    "isActive": true,
+    "roleId": "f668055f-bc11-4867-9d69-50badb7633ed"
+  },
+  {
+    "userPrincipalName": "Khalid",
+    "id": "61c04f3c-7323-42b2-a9dc-58e4c8f49102",
+    "displayName": "Waters",
+    "isActive": false,
+    "roleId": "f7e0cb23-3aa8-49a8-ae94-8386b12dadab"
+  },
+  {
+    "userPrincipalName": "Emmet",
+    "id": "4906d58a-4bec-4673-ac4f-b4e8e574e49e",
+    "displayName": "Treutel",
+    "isActive": false,
+    "roleId": "26195ffd-df19-4e20-af55-fc0178bde3d6"
+  },
+  {
+    "userPrincipalName": "Annabell",
+    "id": "a61f63d8-535a-4154-b3a3-8d88c469c692",
+    "displayName": "Bergstrom",
+    "isActive": false,
+    "roleId": "34c5c6ba-0210-467f-a663-5ed6e9063d10"
+  },
+  {
+    "userPrincipalName": "Boris",
+    "id": "d7fece05-38ba-458d-9e62-43871ef01912",
+    "displayName": "Gutmann",
+    "isActive": true,
+    "roleId": "fc849f55-9d93-44d3-8b30-0ed330d239f1"
+  },
+  {
+    "userPrincipalName": "Abe",
+    "id": "a1728a2b-9b3e-4306-9a8f-ee954adf2629",
+    "displayName": "Kuphal",
+    "isActive": false,
+    "roleId": "fc9b2db6-9810-4837-8aa9-5207071ad082"
+  },
+  {
+    "userPrincipalName": "Lupe",
+    "id": "616fbd5d-f64b-4b04-b96d-25f4a5c809bd",
+    "displayName": "Lesch",
+    "isActive": false,
+    "roleId": "b23a9ee2-3a22-4df1-a31e-86fc83c3f3c2"
+  }
+]
